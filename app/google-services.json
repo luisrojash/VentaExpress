@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581255778545",
+    "firebase_url": "https://ventaexpress-457ad.firebaseio.com",
+    "project_id": "ventaexpress-457ad",
+    "storage_bucket": "ventaexpress-457ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581255778545:android:141f532d2a4221413e1950",
+        "android_client_info": {
+          "package_name": "com.joedayz.ventaexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581255778545-1hvec1ukoo6j1qkc4sh0fvv9885hp3rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1P-Z0zrP5nfoyaL_dtv-CYzdC6GMib8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581255778545-1hvec1ukoo6j1qkc4sh0fvv9885hp3rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
